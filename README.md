@@ -18,7 +18,7 @@
 下载仓库中的：
 
 ```text
-PKU-Art-TS-to-MP4-OneFile-Fixed.cmd
+PKU-Replay-Fix.cmd
 ```
 
 将此程序放到需要转换的 `.ts` 录播文件所在文件夹，例如：
